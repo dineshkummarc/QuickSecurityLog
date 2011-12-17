@@ -7,3 +7,12 @@ c:\users\shank\documents\visual studio 2010\Projects\QuickSecurityLog\QuickSecur
 c:\users\shank\documents\visual studio 2010\Projects\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\GenerateResource.write.1.tlog
 c:\users\shank\documents\visual studio 2010\Projects\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.exe
 c:\users\shank\documents\visual studio 2010\Projects\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.pdb
+C:\Users\Shank\Dropbox\Design and Development\CSharp\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.exe
+C:\Users\Shank\Dropbox\Design and Development\CSharp\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.pdb
+C:\Users\Shank\Dropbox\Design and Development\CSharp\QuickSecurityLog\QuickSecurityLog\bin\Debug\QuickSecurityLog.exe
+C:\Users\Shank\Dropbox\Design and Development\CSharp\QuickSecurityLog\QuickSecurityLog\bin\Debug\QuickSecurityLog.pdb
+C:\Users\Shank\Dropbox\Design and Development\CSharp\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shank\Dropbox\Design and Development\CSharp\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.Form1.resources
+C:\Users\Shank\Dropbox\Design and Development\CSharp\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.Properties.Resources.resources
+C:\Users\Shank\Dropbox\Design and Development\CSharp\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Shank\Dropbox\Design and Development\CSharp\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\GenerateResource.write.1.tlog
