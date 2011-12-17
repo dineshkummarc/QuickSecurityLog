@@ -1,0 +1,235 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Program.cs" caret="373" fromTop="17" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.cs" caret="452" fromTop="19" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="7104" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="7160" fromTop="33" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.cs" caret="318" fromTop="17" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.cs" caret="454" fromTop="17" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="8821" fromTop="21" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.cs" caret="454" fromTop="19" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="4910" fromTop="17" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="84" fromTop="1" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="4847" fromTop="16" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="6828" fromTop="40" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="6250" fromTop="22" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="6070" fromTop="0" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="5972" fromTop="14" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="6971" fromTop="19" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="4555" fromTop="35" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="684" fromTop="23" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="8260" fromTop="29" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="5154" fromTop="14" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="8770" fromTop="28" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="5376" fromTop="27" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="5842" fromTop="37" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="5706" fromTop="34" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="7903" fromTop="14" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="8375" fromTop="38" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="6417" fromTop="28" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="7848" fromTop="27" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="7640" fromTop="23" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="8016" fromTop="35" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="4738" fromTop="16" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="6669" fromTop="27" />
+      <File id="7DA6EB56-540E-4FDD-B91D-E3A7E77AF290/f:Form1.Designer.cs" caret="7477" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:QuickSecurityLog.Form1">
+      <Item value="Icon" priority="0" />
+      <Item value="textBox2" priority="0" />
+      <Item value="comboBox1" priority="1" />
+      <Item value="FindForm`0" priority="1" />
+      <Item value="Text" priority="1" />
+      <Item value="OnLoad`0" priority="0" />
+      <Item value="textBox1" priority="0" />
+      <Item value="backgroundWorker" priority="0" />
+      <Item value="OnExit`0" priority="0" />
+      <Item value="OnClosing`0" priority="0" />
+      <Item value="FormClosing" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="Icon`0" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="Form1`0" priority="0" />
+      <Item value="new" priority="14" />
+      <Item value="form" priority="1" />
+      <Item value="Form1" priority="0" />
+      <Item value="void" priority="8" />
+      <Item value="if" priority="15" />
+      <Item value="keyPressEventArgs" priority="3" />
+      <Item value="Keys`0" priority="0" />
+      <Item value="textBox1" priority="3" />
+      <Item value="string" priority="3" />
+      <Item value="textBox2" priority="8" />
+      <Item value="temp" priority="4" />
+      <Item value="return" priority="2" />
+      <Item value="true" priority="5" />
+      <Item value="else" priority="3" />
+      <Item value="Windows" priority="0" />
+      <Item value="Forms" priority="0" />
+      <Item value="KeyPressEventHandler`0" priority="0" />
+      <Item value="this" priority="17" />
+      <Item value="DateTime`0" priority="4" />
+      <Item value="comboBox1" priority="2" />
+      <Item value="WindowsFormsSection`0" priority="0" />
+      <Item value="SelectedIndexChanged`0" priority="0" />
+      <Item value="eventArgs" priority="0" />
+      <Item value="CheckBox`0" priority="0" />
+      <Item value="checkBox1" priority="0" />
+      <Item value="System" priority="7" />
+      <Item value="EventHandler`0" priority="1" />
+      <Item value="path" priority="5" />
+      <Item value="tw" priority="1" />
+      <Item value="File`0" priority="5" />
+      <Item value="ThreadExceptionDialog`0" priority="1" />
+      <Item value="Thread" priority="1" />
+      <Item value="t" priority="1" />
+      <Item value="private" priority="4" />
+      <Item value="Thread`0" priority="3" />
+      <Item value="toolStripStatusLabel1" priority="2" />
+      <Item value="SaveFileDialog`0" priority="0" />
+      <Item value="SaveFileDialog" priority="0" />
+      <Item value="sd" priority="0" />
+      <Item value="SelectOutputFile`0" priority="2" />
+      <Item value="TextReader`0" priority="0" />
+      <Item value="StreamReader`0" priority="0" />
+      <Item value="tr" priority="1" />
+      <Item value="ReadRoutine`0" priority="0" />
+      <Item value="SaveRoutine`0" priority="1" />
+      <Item value="backgroundWorker" priority="1" />
+      <Item value="BackgroundWorker" priority="0" />
+      <Item value="SetStatus`0" priority="1" />
+      <Item value="SaveThread" priority="2" />
+      <Item value="Point" priority="0" />
+      <Item value="Environment`0" priority="0" />
+      <Item value="folder" priority="1" />
+      <Item value="WebClient" priority="0" />
+      <Item value="webClient" priority="1" />
+      <Item value="Directory`0" priority="0" />
+      <Item value="savePath" priority="3" />
+      <Item value="Uri" priority="0" />
+      <Item value="DownloadResources`0" priority="0" />
+      <Item value="SoundPlayer" priority="1" />
+      <Item value="bool" priority="0" />
+      <Item value="canPlaySound" priority="2" />
+      <Item value="soundPlayer" priority="1" />
+      <Item value="_savePath" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="downloadThread" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="long" priority="0" />
+      <Item value="soundEpoch" priority="2" />
+      <Item value="SoundPlayer`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyPressEventArgs">
+      <Item value="KeyChar" priority="0" />
+      <Item value="Handled" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Keys">
+      <Item value="Enter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="8" />
+      <Item value="KeyPress" priority="0" />
+      <Item value="ScrollBars" priority="1" />
+      <Item value="InvokeRequired" priority="0" />
+      <Item value="AutoScrollOffset" priority="0" />
+      <Item value="ScrollToCaret`0" priority="0" />
+      <Item value="SelectionStart" priority="0" />
+      <Item value="LayoutEngine" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Trim`0" priority="4" />
+      <Item value="Length" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="4" />
+      <Item value="UtcNow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="SelectedText" priority="0" />
+      <Item value="Items" priority="0" />
+      <Item value="SelectedIndex" priority="1" />
+      <Item value="SelectedItem" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Checked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextWriter">
+      <Item value="Write`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists`0" priority="4" />
+      <Item value="Delete`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="1" />
+      <Item value="Abort`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+      <Item value="CurrentThread" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripStatusLabel">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SaveFileDialog">
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextReader">
+      <Item value="ReadToEnd`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.BackgroundWorker">
+      <Item value="RunWorkerAsync`0" priority="0" />
+      <Item value="RunWorkerCompleted" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Form">
+      <Item value="FindForm`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="GetFolderPath`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebClient">
+      <Item value="DownloadFileAsync`0" priority="0" />
+      <Item value="DownloadFileCompleted" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="CreateDirectory`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Media.SoundPlayer">
+      <Item value="Play`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Second" priority="0" />
+      <Item value="TimeOfDay" priority="0" />
+      <Item value="Date" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

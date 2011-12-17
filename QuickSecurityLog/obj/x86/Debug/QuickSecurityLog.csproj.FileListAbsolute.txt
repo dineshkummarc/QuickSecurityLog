@@ -1,0 +1,9 @@
+c:\users\shank\documents\visual studio 2010\Projects\QuickSecurityLog\QuickSecurityLog\bin\Debug\QuickSecurityLog.exe
+c:\users\shank\documents\visual studio 2010\Projects\QuickSecurityLog\QuickSecurityLog\bin\Debug\QuickSecurityLog.pdb
+c:\users\shank\documents\visual studio 2010\Projects\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\shank\documents\visual studio 2010\Projects\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.Form1.resources
+c:\users\shank\documents\visual studio 2010\Projects\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.Properties.Resources.resources
+c:\users\shank\documents\visual studio 2010\Projects\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\shank\documents\visual studio 2010\Projects\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\shank\documents\visual studio 2010\Projects\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.exe
+c:\users\shank\documents\visual studio 2010\Projects\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.pdb
