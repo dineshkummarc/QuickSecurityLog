@@ -114,6 +114,9 @@ namespace QuickSecurityLog
 			this.comboBox1.Items.AddRange(new object[] {
             "Windows XP",
             "Windows 7",
+            "Windows 8",
+            "Windows 8.1",
+            "Server 2000",
             "Server 2003",
             "Server 2008",
             "Server 2012",
