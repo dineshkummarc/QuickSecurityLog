@@ -16,3 +16,11 @@ C:\Users\Shank\Dropbox\Design and Development\CSharp\QuickSecurityLog\QuickSecur
 C:\Users\Shank\Dropbox\Design and Development\CSharp\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.Properties.Resources.resources
 C:\Users\Shank\Dropbox\Design and Development\CSharp\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\Shank\Dropbox\Design and Development\CSharp\QuickSecurityLog\QuickSecurityLog\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Michael\Downloads\CP-investigate\QuickSecurityLog-master\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.exe
+C:\Users\Michael\Downloads\CP-investigate\QuickSecurityLog-master\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.pdb
+C:\Users\Michael\Downloads\CP-investigate\QuickSecurityLog-master\QuickSecurityLog\bin\Debug\QuickSecurityLog.exe
+C:\Users\Michael\Downloads\CP-investigate\QuickSecurityLog-master\QuickSecurityLog\bin\Debug\QuickSecurityLog.pdb
+C:\Users\Michael\Downloads\CP-investigate\QuickSecurityLog-master\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Downloads\CP-investigate\QuickSecurityLog-master\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.Form1.resources
+C:\Users\Michael\Downloads\CP-investigate\QuickSecurityLog-master\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.Properties.Resources.resources
+C:\Users\Michael\Downloads\CP-investigate\QuickSecurityLog-master\QuickSecurityLog\obj\x86\Debug\QuickSecurityLog.csproj.GenerateResource.Cache
