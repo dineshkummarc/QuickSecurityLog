@@ -80,14 +80,14 @@ namespace QuickSecurityLog
 			 this.checkBox1.Name = "checkBox1";
 			 this.checkBox1.Size = new System.Drawing.Size(74, 17);
 			 this.checkBox1.TabIndex = 1;
-			 this.checkBox1.Text = "Point?";
+			 this.checkBox1.Text = "Scored?";
 		     this.checkBox1.UseVisualStyleBackColor = true;
 
             //
             // checkBox2
             //
             this.checkBox2.AutoSize = true;
-            this.checkBox2.Location = new System.Drawing.Point(773, 15);
+            this.checkBox2.Location = new System.Drawing.Point(783, 15);
             this.checkBox2.Name = "checkBox2";
             this.checkBox2.Size = new System.Drawing.Size(74, 17);
             this.checkBox2.TabIndex = 1;
@@ -309,9 +309,9 @@ namespace QuickSecurityLog
 						}
 					}
 				}
-                if (checkBox1.Checked)
+                if (checkBox2.Checked)
                 {
-                    temp = "{Point Loss :(} " + temp;
+                    temp = "{Point Loss} " + temp;
                 }
 				textBox1.Text = "";
 				if (textBox2.Text.Trim() == "")
