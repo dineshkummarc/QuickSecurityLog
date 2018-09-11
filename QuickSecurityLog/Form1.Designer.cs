@@ -44,7 +44,9 @@ namespace QuickSecurityLog
 		private void InitializeComponent()
 		{
 			this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBox3 = new System.Windows.Forms.TextBox();
 			this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.checkBox2 = new System.Windows.Forms.CheckBox();
 			this.textBox2 = new System.Windows.Forms.TextBox();
 			this.comboBox1 = new System.Windows.Forms.ComboBox();
 			this.statusStrip1 = new System.Windows.Forms.StatusStrip();
@@ -57,19 +59,41 @@ namespace QuickSecurityLog
 			this.textBox1.Font = new System.Drawing.Font("Calibri", 10F);
 			this.textBox1.Location = new System.Drawing.Point(13, 13);
 			this.textBox1.Name = "textBox1";
-			this.textBox1.Size = new System.Drawing.Size(639, 24);
+			this.textBox1.Size = new System.Drawing.Size(550, 24);
 			this.textBox1.TabIndex = 0;
 			this.textBox1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.CheckEntryKeys);
+            //
+            // textBox3
+            //
+            this.textBox3.Font = new System.Drawing.Font("Calibri", 10F);
+            this.textBox3.Location = new System.Drawing.Point(565, 13);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(30, 24);
+            this.textBox3.TabIndex = 0;
+            this.textBox3.Text = "MB";
 			// 
 			// checkBox1
 			// 
-			this.checkBox1.AutoSize = true;
-			this.checkBox1.Location = new System.Drawing.Point(753, 15);
-			this.checkBox1.Name = "checkBox1";
-			this.checkBox1.Size = new System.Drawing.Size(74, 17);
-			this.checkBox1.TabIndex = 1;
-			this.checkBox1.Text = "Point get?";
-			this.checkBox1.UseVisualStyleBackColor = true;
+
+			 this.checkBox1.AutoSize = true;
+			 this.checkBox1.Location = new System.Drawing.Point(713, 15);
+			 this.checkBox1.Name = "checkBox1";
+			 this.checkBox1.Size = new System.Drawing.Size(74, 17);
+			 this.checkBox1.TabIndex = 1;
+			 this.checkBox1.Text = "Scored?";
+		     this.checkBox1.UseVisualStyleBackColor = true;
+
+            //
+            // checkBox2
+            //
+            this.checkBox2.AutoSize = true;
+            this.checkBox2.Location = new System.Drawing.Point(783, 15);
+            this.checkBox2.Name = "checkBox2";
+            this.checkBox2.Size = new System.Drawing.Size(74, 17);
+            this.checkBox2.TabIndex = 1;
+            this.checkBox2.Text = "Penalty?";
+            this.checkBox2.UseVisualStyleBackColor = true;
+
 			// 
 			// textBox2
 			// 
@@ -81,14 +105,24 @@ namespace QuickSecurityLog
 			this.textBox2.Size = new System.Drawing.Size(814, 194);
 			this.textBox2.TabIndex = 2;
 			this.textBox2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TextFieldKeys);
+            
+
 			// 
 			// comboBox1
 			// 
 			this.comboBox1.FormattingEnabled = true;
 			this.comboBox1.Items.AddRange(new object[] {
             "Windows XP",
-            "Server 2003"});
-			this.comboBox1.Location = new System.Drawing.Point(659, 13);
+            "Windows 7",
+            "Windows 8",
+            "Windows 8.1",
+            "Server 2000",
+            "Server 2003",
+            "Server 2008",
+            "Server 2012",
+            "Ubuntu",
+            "Fedora",});
+			this.comboBox1.Location = new System.Drawing.Point(619, 13);
 			this.comboBox1.Name = "comboBox1";
 			this.comboBox1.Size = new System.Drawing.Size(88, 21);
 			this.comboBox1.TabIndex = 3;
@@ -120,9 +154,11 @@ namespace QuickSecurityLog
 			this.Controls.Add(this.comboBox1);
 			this.Controls.Add(this.textBox2);
 			this.Controls.Add(this.checkBox1);
+            this.Controls.Add(this.checkBox2);
 			this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.textBox3);
 			this.Name = "Form1";
-			this.Text = "QSL @ Windows XP";
+			this.Text = "QSL";
 			this.Load += new System.EventHandler(this.SetupDefaults);
 			this.statusStrip1.ResumeLayout(false);
 			this.statusStrip1.PerformLayout();
@@ -246,12 +282,13 @@ namespace QuickSecurityLog
 		{
 			keyPressEventArgs.Handled = true;
 		}
-
+ 
+            
 		void CheckEntryKeys(object sender, KeyPressEventArgs keyPressEventArgs)
 		{
 			if (keyPressEventArgs.KeyChar == (char)Keys.Enter)
 			{
-				string temp = "[" + System.DateTime.Now + " | " + comboBox1.SelectedItem + "]: " + textBox1.Text;
+                string temp = "[" + textBox3.Text + " " + System.DateTime.Now + " | " + comboBox1.SelectedItem + "]: " + textBox1.Text;
 				if (textBox1.Text.Trim() == "")
 				{
 					keyPressEventArgs.Handled = true;
@@ -272,6 +309,10 @@ namespace QuickSecurityLog
 						}
 					}
 				}
+                if (checkBox2.Checked)
+                {
+                    temp = "{Point Loss} " + temp;
+                }
 				textBox1.Text = "";
 				if (textBox2.Text.Trim() == "")
 				{
@@ -291,7 +332,9 @@ namespace QuickSecurityLog
 		private Thread SaveThread;
 		private string path = "";
 		private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox3;
 		private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.CheckBox checkBox2;
 		private System.Windows.Forms.TextBox textBox2;
 		private ComboBox comboBox1;
 		private StatusStrip statusStrip1;
